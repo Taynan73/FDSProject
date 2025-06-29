@@ -1,0 +1,55 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+
+#biography{
+    font-size: 20px;
+    text-align: justify;
+}
+
+#messageBtn{
+    border-radius: 15px;
+    padding: 10px 20px;
+    border: 2px solid black;
+    background-color: springgreen;
+    transition: .3s;
+}
+
+#messageBtn:hover{
+    background-color: white;
+    cursor: pointer;
+}
+
+#linkToInterestingSite{
+    text-decoration: none;
+    transition: .3s;
+}
+
+#linkToInterestingSite:hover{
+    color: red;
+}
+
+#hobby{
+    font-size: 18px;
+    
+}
+
+
+#hobbyImg{
+    border-radius: 30px;
+}
+
+
+.desirableCountry{
+    border-radius: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+.countryName{
+    background-color: yellow;   
+}
