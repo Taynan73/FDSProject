@@ -7,6 +7,16 @@ h1{
     color: red;
 }
 
+
+
+.container{
+    padding-top: 30px;
+}
+
+#aboutMe{
+    padding-top: 0;
+}
+
 #biography{
     font-size: 20px;
     text-align: justify;
